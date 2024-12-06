@@ -1,3 +1,0 @@
-[nsqd] 2024/12/06 11:43:02.090025 INFO: nsqd v1.3.0 (built w/go1.21.5)
-[nsqd] 2024/12/06 11:43:02.090025 INFO: ID: 939
-[nsqd] 2024/12/06 11:43:02.091622 FATAL: failed to instantiate nsqd - listen (0.0.0.0:4150) failed - listen tcp 0.0.0.0:4150: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.

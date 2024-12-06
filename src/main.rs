@@ -95,6 +95,7 @@ impl NsqService {
         }
     }
 }
+
 #[tokio::main]
 async fn main() {
     // 初始化日志
