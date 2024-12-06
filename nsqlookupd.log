@@ -1,0 +1,2 @@
+[nsqlookupd] 2024/12/06 11:59:30.923066 INFO: nsqlookupd v1.3.0 (built w/go1.21.5)
+[nsqlookupd] 2024/12/06 11:59:30.924075 FATAL: failed to instantiate nsqlookupd%!(EXTRA *errors.errorString=listen (0.0.0.0:4160) failed - listen tcp 0.0.0.0:4160: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.)

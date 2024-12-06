@@ -1,0 +1,2 @@
+[nsqadmin] 2024/12/06 11:42:42.055477 INFO: nsqadmin v1.3.0 (built w/go1.21.5)
+[nsqadmin] 2024/12/06 11:42:42.057066 FATAL: failed to instantiate nsqadmin - listen (0.0.0.0:4171) failed - listen tcp 0.0.0.0:4171: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
