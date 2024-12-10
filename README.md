@@ -139,7 +139,7 @@ log_file = "nsqadmin.log"
 
 如果在使用过程中遇到问题，欢迎通过以下方式联系我们：  
 Email: support@hooknsq.com  
-GitHub: [hook_nsq](https://github.com/example/hook_nsq)
+GitHub: [hook_nsq](https://github.com/cfping/hook_nsq)
 
 --- 
 
